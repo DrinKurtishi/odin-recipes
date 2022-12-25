@@ -6,11 +6,13 @@ body{
     text-align: center;
 }
 #Main-description{
-    border-width: 2px;
+    border-width: 1px;
     border-style: outset;
     border-color: #ffffff;
     display: inline-block;
 }
 .bullets{
     display: inline-block;
+    text-align: left;
 }
+
