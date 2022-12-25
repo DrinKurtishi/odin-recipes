@@ -14,5 +14,11 @@ body{
 .bullets{
     display: inline-block;
     text-align: left;
+    margin-right: 15px;
+}
+.Numbering{
+    display: inline-block;
+    text-align: left;
+    margin-left: 30px;
 }
 
