@@ -1,7 +1,16 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
 }
-#main-description{
-    border: 2px solid #A40909;
+.Main{
+    text-align: center;
+}
+#Main-description{
+    border-width: 2px;
+    border-style: outset;
+    border-color: #ffffff;
+    display: inline-block;
+}
+.bullets{
+    display: inline-block;
 }
