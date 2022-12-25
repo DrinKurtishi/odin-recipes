@@ -5,6 +5,9 @@ body{
 .Main{
     text-align: center;
 }
+.Inline{
+    text-align: center;
+}
 #Main-description{
     border-width: 1px;
     border-style: outset;
